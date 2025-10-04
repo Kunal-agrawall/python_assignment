@@ -18,7 +18,9 @@ A simple **desktop chatbot application** built with **Python** and **Tkinter**, 
 ---
 
 ## **Screenshots**
-![The chatbot looks liks](images/1.jpg)
+![The chatbot looks like](images/2.jpg)
+![The chatbot after searching something](images/1.jpg)
+
 
 
 ---

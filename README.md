@@ -18,9 +18,8 @@ A simple **desktop chatbot application** built with **Python** and **Tkinter**, 
 ---
 
 ## **Screenshots**
-<img src="images/2.jpg" alt="The chatbot looks like" width="500"/>
-![The chatbot after searching something](images/1.jpg)
-
+<img src="images/2.jpg" alt="The chatbot looks like" width="500" height="300"/>
+<img src="images/1.jpg" alt="The chatbot after searching something" width="500" height="300"/>
 
 
 ---
